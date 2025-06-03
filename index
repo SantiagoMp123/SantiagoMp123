@@ -10,9 +10,11 @@
  </style>
 </head>
 <body>
- <h1>Hola, soy Santiago</h1>
+ <center>
+<h1>Hola, soy Santiago</h1>
  <p>No tengo experiencia laboral. Pero tengo cursos en python y ashure con la universidad de los andes</p>
  <h2>Proyectos</h2>
 <p>  No tengo proyectos </p>
+</center>
 </body>
 </html>
