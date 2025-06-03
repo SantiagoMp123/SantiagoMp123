@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html> //se me borro todo asi que lo envio basico profe
+<head>
+ <meta charset="UTF-8">
+ <title>PORTAFOLIO =)</title>
+ <style>
+ body { font-family: Arial; margin: 40px; }
+ h1 { color: #2c3e50; }
+ h2 { color: Darkblue; }
+ </style>
+</head>
+<body>
+ <h1>Hola, soy Santiago</h1>
+ <p>No tengo experiencia laboral. Pero tengo cursos en python y ashure con la universidad de los andes</p>
+ <h2>Proyectos</h2>
+<p>  No tengo proyectos </p>
+</body>
+</html>
